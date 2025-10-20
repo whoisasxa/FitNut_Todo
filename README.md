@@ -88,5 +88,4 @@ Replace `<your-username>` with your GitHub handle.
 
 ---
 
-## License
-MIT (or your preference)
+
